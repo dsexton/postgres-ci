@@ -2,7 +2,7 @@
 
 ## Backround
 
-This image has fsync disabled in order to improve preforming during various continuous integration tasks.
+This image has various flags set to improve performance during various continuous integration tasks.
 
 ## Flavors
 
